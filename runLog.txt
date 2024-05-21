@@ -1,0 +1,7 @@
+Students: 
+
+Faculty: 
+Faculty ID: 8 Name: Fumi Position: Prof Department: Fowler
+Fumi's Advisees: Faculty ID: 9 Name: Linstead Position: Prof Department: Fowler
+Linstead's Advisees: Faculty ID: 10 Name: Rene Position: Prof Department: Fowler
+Rene's Advisees: 
